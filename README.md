@@ -31,10 +31,6 @@ Boot Camp: everys Quality Assurance Beginner -
 
 
 
-# Autor
-Edson souza
-
-[Meu Linkedin](https://www.linkedin.com/in/edsonfrs/)
 
 
 
